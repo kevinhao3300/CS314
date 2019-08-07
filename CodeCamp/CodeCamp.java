@@ -7,7 +7,7 @@
  *  On my honor, Kevin Hao, this programming assignment is my own work
  *  and I have not provided this code to any other student.
  *
- *  Name: Kevin
+ *  Name: Kevin Hao
  *  email address: kevinhao3300@yahoo.com
  *  UTEID: kjh2858
  *  Section 5 digit ID: 51365
